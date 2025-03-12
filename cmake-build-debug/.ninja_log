@@ -1,3 +1,6 @@
 # ninja log v6
 9	1669	7631590759440638	CMakeFiles/double_linked_list.dir/main.cpp.obj	74ca4ed67bfdaf4e
 1674	2337	7631590776091518	double_linked_list.exe	eb7d43b72f26dc7e
+32	1206	7634607504302797	build.ninja	3b3f6ddf6979efc5
+6	1438	7634607505466521	CMakeFiles/double_linked_list.dir/Double_Linked_List.cpp.obj	6ff5574782294065
+1439	2011	7634607519799023	double_linked_list.exe	9088ff6f5dd98ecd
